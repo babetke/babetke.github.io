@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Briana Betke"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio_pic.jpg"
   bio              : "PhD Candidate at the University of Texas at Austin"
   location         : "Austin, Tx"
   email            : 
