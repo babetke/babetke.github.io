@@ -13,7 +13,3 @@ permalink: /CV/
 <embed src="https://babetke.github.io/images/Betke_CV.pdf" width="900px" height="800px" />
 
 
-
-
-<br><br>	
-<a href="../">Home</a>
