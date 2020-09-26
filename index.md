@@ -13,11 +13,10 @@ header:
 I am a PhD Candidate in the Ecology, Evolution, and Behavior program at the University of Texas at Austin in the [Meyers lab](http://www.bio.utexas.edu/research/meyers/). My research instrest is broadly disease ecology of wildlife and humans. More specifically my interests include the impacts of ubranization on wildlife health, host-parasite interactions, human-wildlife interactions, and the implications this may have for spread of zoonotic diseases. I am interested in using a combination of field, lab, and quantitative techniquies to understand these complex topics from an ecological and epidemiologal standpoint.
 
 
-![](/images/cnsandib.png) 
-![](EEB-Logo-Circle-Blue.png)
+![](/images/cnsandib.png) | ![](EEB-Logo-Circle-Blue.png)
 
 
-<img src="/images/cnsandib.png" alt="" width="300"/> <img src="/images/EEB-Logo-Circle-Blue.png" alt="" width="200"/>
+<img src="/images/cnsandib.png" alt="" width="400"/> <img src="/images/EEB-Logo-Circle-Blue.png" alt="" width="100"/>
 
 
 
