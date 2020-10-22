@@ -11,7 +11,7 @@ header:
 ---
 
 # Research intrests
-___
+---
 
 I am a PhD Candidate in the Ecology, Evolution, and Behavior program at the University of Texas at Austin in the [Meyers lab](http://www.bio.utexas.edu/research/meyers/). My research intrest is broadly the disease ecology of wildlife and humans. More specifically my interests include the impacts of ubranization on wildlife health, host-parasite interactions, human-wildlife interactions, and the implications this may have for spread of zoonotic diseases. I am interested in using a combination of field, lab, and quantitative techniquies to understand these complex topics from an ecological and epidemiologal standpoint.
 
@@ -20,7 +20,8 @@ I am a PhD Candidate in the Ecology, Evolution, and Behavior program at the Univ
 
 
 # News
-___
+---
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congrats to <a href="https://twitter.com/EcoEvoBevo?ref_src=twsrc%5Etfw">@EcoEvoBevo</a> grad student <a href="https://twitter.com/brianaabook?ref_src=twsrc%5Etfw">@brianaabook</a> (co-advised by Lauren Meyers and myself) for passing her qualifying exam today via Zoom! Talking about urbanization &amp; disease ecology &amp; wildlife-human interactions, during the pandemic. <a href="https://t.co/yN8gwKlspc">pic.twitter.com/yN8gwKlspc</a></p>&mdash; Daniel Bolnick (@DanielBolnick) <a href="https://twitter.com/DanielBolnick/status/1243609738220310532?ref_src=twsrc%5Etfw">March 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s <a href="https://twitter.com/hashtag/TakeoverTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TakeoverTuesday</a>! This week, we have Briana Betke (<a href="https://twitter.com/brianaabook?ref_src=twsrc%5Etfw">@brianaabook</a>), the student liaison for the Disease Ecology Section. Learn more about the the Disease Ecology Section over on our Facebook <a href="https://t.co/biaFs6xWoc">https://t.co/biaFs6xWoc</a> <a href="https://twitter.com/hashtag/ESASectionTakeover?src=hash&amp;ref_src=twsrc%5Etfw">#ESASectionTakeover</a> <a href="https://t.co/wwyKku3XoU">pic.twitter.com/wwyKku3XoU</a></p>&mdash; ESA Student Section (@esa_students) <a href="https://twitter.com/esa_students/status/1123256050680041472?ref_src=twsrc%5Etfw">April 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
