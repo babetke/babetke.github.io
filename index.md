@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 author_profile: true
 header:
-  image: "/images/IMG_0591.jpeg"
+  image: "/images/IMG_1755.jpeg"
   caption: "Photo Credit: Briana Betke"
 ---
 

@@ -2,7 +2,7 @@
 title: ""
 permalink: /about/
 header:
-  image: "/images/IMG_1755.jpeg"
+  image: "/images/aboutHeader.jpg"
   caption: "Photo Credit: Briana Betke"
 ---
 # About
