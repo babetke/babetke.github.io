@@ -7,7 +7,7 @@ permalink: /
 author_profile: true
 header:
   image: "/images/IMG_1755.jpeg"
-  caption: "Photo Credit: Briana Betke"
+  caption: "Medicine Park, OK Photo Credit: Briana Betke"
 ---
 
 # Research interests
