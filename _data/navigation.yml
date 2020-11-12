@@ -4,8 +4,8 @@ main:
     url: /CV/
   - title: "About"
     url: /about/
-  - title: "Projects"
-     url: /projects/
+  #- title: "Projects"
+     #url: /projects/
   # - title: "DDCSP & ALC"
   #   url: /ddcsp&alc/
   # - title: "Photography"
