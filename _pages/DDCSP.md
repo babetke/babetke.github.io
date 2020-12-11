@@ -1,4 +1,6 @@
 ---
 title: ""
-permalink: /ddcspandoutreach/
+permalink: /DDCSP/
 ---
+
+Doris duke conservation scholars program (DDCSP)
