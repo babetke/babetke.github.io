@@ -4,9 +4,9 @@ main:
     url: /CV/
   - title: "About"
     url: /about/
-  - title: "DDCSP & Outreach"
-    url: /DDCSP/
   - title: "Projects"
     url: /projects/
   # - title: "Photography"
   #   url: /photography/
+  # - title: "DDCSP & Outreach"
+  # url: /DDCSP/
