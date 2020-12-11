@@ -6,7 +6,7 @@ main:
     url: /about/
   - title: "DDCSP & Outreach"
     url: /ddcspandoutreach/
-  # - title: "Projects"
-     #url: /projects/
+  - title: "Projects"
+    url: /projects/
   # - title: "Photography"
   #   url: /photography/
