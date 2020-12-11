@@ -8,5 +8,5 @@ main:
     url: /projects/
   # - title: "Photography"
   #   url: /photography/
-  # - title: "DDCSP & Outreach"
-  # url: /DDCSP/
+  - title: "DDCSP & Outreach"
+    url: /DDCSP/
