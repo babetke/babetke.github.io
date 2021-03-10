@@ -1,6 +1,9 @@
 ---
 title: ""
 permalink: /DDCSP/
+header:
+  image: "/images/IMG_0268.jpeg"
+  caption: "Photo Credit: Briana Betke"
 ---
 
 <body>
@@ -18,6 +21,11 @@ permalink: /DDCSP/
 
 <h1 style="text-align:center">  DDCSP 2015 </h1>
 <p> As an undergraduate, I was accepted into the second cohort of the DDCSP Collaborative in 2015. I worked on two different projects druing my first summer both located in Arizona. The first project, I assisted in the locating of bighorned sheep, the maintainence of trail cameras, and collection of vegetation samples in the Catalina Mountains. The second project included observing gray hawk nests and recording alarm calls. I spent my second summer with the California Department of Fish and Wildlife's investigations Lab where I conducted necropies, delivered tissues for diagnostic testing, and managaed data.</p>
+
+<h1> style="text-align:center">Alumni Leaderhip Cohort (ALC)</h1>
+
+<img src="/images/IMG_0561.JPG" alt="ALC 1 Photo"> 
+
 
 <h1 style="text-align:center"> Mentorship </h1>
 
