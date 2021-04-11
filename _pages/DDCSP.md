@@ -1,8 +1,8 @@
 ---
-title: "DDCSP and Outreach"
+title: ""
 permalink: /DDCSP/
 header:
-  image: "/images/DDCSP_outside.JPEG"
+  image: "/images/DDCSP_outside.jpg"
   caption: "Photo Credit: Rena Borkhataria"
 ---
 
