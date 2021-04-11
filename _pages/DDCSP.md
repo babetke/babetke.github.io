@@ -30,7 +30,7 @@ I am a member of the [Minorities in Biological Research Program](https://minorit
 
 **Mentorship**
 
-Through the ESA SEEDs program, I mentored # students during the 2019 ESA annual conference. I assisted students with navigating the conference and creating networks. 
+Through the ESA SEEDs program, I mentored 10 students during the 2019 ESA annual conference. I assisted students with navigating the conference and creating professional networks. 
 
 Through the Alumni Leadership Cohort, I mentored a current undergraduate student in the DDCSP Collaborative.
 
