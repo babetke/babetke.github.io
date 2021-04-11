@@ -26,7 +26,7 @@ In 2017, I was selected to participate in the first Alumni Leadership Cohort (AL
 
 **Minorities in Biological Research (MBR)**
 
-I am a member of the [Minorities in Biological Research Program](minoritiesinbiologicalresearch.weebly.com) at the University of Texas at Austin. MBR is a program intended to provide information to undergraduate students of underrepresented groups relating to preparing for graduate school or a career in research. I assist with the organizing of workshops and the development of content such as handouts. In March of 2021, I presented on the graduate panel to show students my path to graduate school. 
+I am a member of the [Minorities in Biological Research Program](https://minoritiesinbiologicalresearch.weebly.com/) at the University of Texas at Austin. MBR is a program intended to provide information to undergraduate students of underrepresented groups relating to preparing for graduate school or a career in research. I assist with the organizing of workshops and the development of content such as handouts. In March of 2021, I presented on the graduate panel to show students my path to graduate school. 
 
 **Mentorship**
 
@@ -36,7 +36,7 @@ Through the Alumni Leadership Cohort, I mentored a current undergraduate student
 
 **Public engagement**
 
-May of 2021, I will be presenting about Urban mammals at [Science Under the Stars](scienceunderthestars.org) at the University of Texas at Austin. 
+May of 2021, I will be presenting about Urban mammals at [Science Under the Stars](https://scienceunderthestars.org/) at the University of Texas at Austin. 
 
 In March of 2021, I presented on the graduate panel to show students my path to graduate school.
 
