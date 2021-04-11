@@ -1,37 +1,43 @@
 ---
-title: ""
+title: "DDCSP and Outreach"
 permalink: /DDCSP/
+header:
+  image: "/images/DDCSP.jpeg"
+  caption: "Photo Credit: Rena Borkhataria"
 ---
 
-<body>
-<h1 style="text-align:center"> Doris Duke Conservation Scholars Program (DDCSP) </h1>
+**DDCSP description**
 
-<p align="center">The DDCSP is a reserach program intended to promote diveristy, equity and inclution in the field of conservation, or related fields, by supporting students of underrepresented groups in a two year program. The program consists of two paid summers to develop reserach skills and a weeklong DEI focused leadership training. After partcipation in the DDSCP, alumni can recieve further support through the ALumni Leadrship Cohort (ALC) with additional leadership training in topics including:</p>
+The DDCSP is a research program intended to promote diversity, equity and inclusion in the field of conservation, or related fields, by supporting students of underrepresented groups in a two year program. The program consists of two paid summers to develop research skills and a week-long DEI focused leadership training. After participation in the DDSCP, alumni can receive further support through the Alumni Leadership Cohort (ALC) with additional leadership training in topics including such as Diversity, Equity and Inclusion, Social Change, Network Building, Developing a Personal Leadership Plan.
 
-<ul align="center">
-  <li>Diversity, Equity and Inclusion</li>
-  <li>Social Change</li>
-  <li>Network Building</li>
-  <li>Developing a Personal Leadership Plan</li>
-</ul>
+**DDCSP-UF 2015**
 
+<img src="/images/Picture1.png" alt="ALC 1 Photo">
 
-<h1 style="text-align:center">  DDCSP 2015 </h1>
-<p> As an undergraduate, I was accepted into the second cohort of the DDCSP Collaborative in 2015. I worked on two different projects druing my first summer both located in Arizona. The first project, I assisted in the locating of bighorned sheep, the maintainence of trail cameras, and collection of vegetation samples in the Catalina Mountains. The second project included observing gray hawk nests and recording alarm calls. I spent my second summer with the California Department of Fish and Wildlife's investigations Lab where I conducted necropies, delivered tissues for diagnostic testing, and managaed data.</p>
+As an undergraduate, I was accepted into the second cohort of the DDCSP Collaborative in 2015. I worked on two different projects during my first summer both located in Arizona. The first project, I assisted in the locating of bighorn sheep, the maintenance of trail cameras, and collection of vegetation samples in the Catalina Mountains. The second project included observing gray hawk nests and recording alarm calls. I spent my second summer with the California Department of Fish and Wildlife's investigations Lab where I conducted necropies, delivered tissues for diagnostic testing, and managed data.
 
-<h1 style="text-align:center">Alumni Leaderhip Cohort (ALC)</h1>
+**Alumni Leadership Cohort (ALC) - 2017**
 
-<img src="/images/IMG_0561.JPG" alt="ALC 1 Photo"> 
+<img src="/images/IMG_0561.JPG" alt="ALC 1 Photo">
 
+In 2017, I was selected to participate in the first Alumni Leadership Cohort (ALC) facilitated by the Environmental Leadership Program (ELP). I attended the ALC1 training in White Oak Conservation Center, Yulee, FL. There, I connected with some of my DDCSP cohort but also met with  Alumni of other DDCSP programs (DDCSP of Washington State, NAU, and UCSC). 
 
-<h1 style="text-align:center"> Mentorship </h1>
+**Minorities in Biological Research (MBR)**
 
-Through the ESA SEEDs program, I mentored students during the 2019 ESA annual conference. I assisted students with navigating the conference and creating networks. 
+I am a member of the [Minorities in Biological Research Program](minoritiesinbiologicalresearch.weebly.com) at the University of Texas at Austin. MBR is a program intended to provide information to undergraduate students of underrepresented groups relating to preparing for graduate school or a career in research. I assist with the organizing of workshops and the development of content such as handouts. In March of 2021, I presented on the graduate panel to show students my path to graduate school. 
 
-Through the Alumni Leadership Cohort, I mentored an undergraduate student in the DDCSP.
+**Mentorship**
 
-<h1 style="text-align:center"> Outreach </h1>
+Through the ESA SEEDs program, I mentored # students during the 2019 ESA annual conference. I assisted students with navigating the conference and creating networks. 
 
-I am currently assisting with the development of Minorities in Biological Research (MBR) at UT Austin where workshops are given about preparing for graduate school, attending conferences, and much more.
+Through the Alumni Leadership Cohort, I mentored a current undergraduate student in the DDCSP Collaborative.
 
-</body>
+**Public engagement**
+
+May of 2021, I will be presenting about Urban mammals at [Science Under the Stars](scienceunderthestars.org) at the University of Texas at Austin. 
+
+In March of 2021, I presented on the graduate panel to show students my path to graduate school.
+
+In October of 2018, I presented in the Diseases of Wildlife course at the University of Arizona about research of diseases in wildlife and my current work.
+
+During the summer of 2015, I presented at the Southwest Wings Festival hosted at Cochise College, Sierra Vista about the Gray Hawk Project (Lead by Ariana LaPorte) and my undergraduate research experience.
