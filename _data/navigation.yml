@@ -2,11 +2,12 @@
 main:
   - title: "Curriculum Vitae"
     url: /CV/
-  - title: "About"
-    url: /about/
   - title: "Projects"
     url: /projects/
-  # - title: "Photography"
-  #   url: /photography/
   - title: "DDCSP & Outreach"
     url: /DDCSP/
+  - title: "Publications"
+    url: /publications/
+  - title: "About"
+    url: /about/
+
