@@ -13,3 +13,6 @@ permalink: /CV/
 <embed src="https://babetke.github.io/images/Betke_CV_Academia.pdf" width="900px" height="800px" />
 
 
+<a href="https://babetke.github.io/images/Betke_CV_Academia.pdf">Download PDF Copy</a>
+
+</body>
