@@ -36,10 +36,10 @@ Through the Alumni Leadership Cohort, I mentored a current undergraduate student
 
 **Public engagement**
 
-May of 2021, I will be presenting about Urban mammals at [Science Under the Stars](https://scienceunderthestars.org) at the University of Texas at Austin. 
+May of 2021, I presented on Urban mammals of Texas at [Science Under the Stars](https://scienceunderthestars.org) at the University of Texas at Austin. 
 
 In March of 2021, I presented on the graduate panel to show students my path to graduate school.
 
 In October of 2018, I presented in the Diseases of Wildlife course at the University of Arizona about research of diseases in wildlife and my current work.
 
-During the summer of 2015, I presented at the Southwest Wings Festival hosted at Cochise College, Sierra Vista about the Gray Hawk Project (Lead by Ariana LaPorte) and my undergraduate research experience.
+During the summer of 2015, I presented at the Southwest Wings Festival hosted by Cochise College, Sierra Vista about the Gray Hawk Project (Lead by Ariana LaPorte) and my undergraduate research experience.
