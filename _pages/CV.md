@@ -15,4 +15,3 @@ permalink: /CV/
 
 <a href="https://babetke.github.io/images/Betke_CV_Academia.pdf">Download PDF Copy</a>
 
-</body>
