@@ -14,7 +14,7 @@ Emily Javan, Emily Kushnereit, **Briana Betke**, Spencer Woody, Remy Pasco, Kell
 
 
 **Media Articles**  
-2021  	
+2021  
 Briana Betke. Academic Conference Guide. Minorities in Biological Research at UT Austin Undergraduate Resources. [View PDF](https://minoritiesinbiologicalresearch.weebly.com/uploads/1/3/5/8/135801712/academic_conference_guide.pdf)
 
 
