@@ -7,10 +7,12 @@ permalink: /publications/
 
 2022
 
-<ul>
-Omayma Amin, Christina A. Rostad, Mark Gonzalez, Bradley S. Rostad, Shelley Caltharp, Elizabeth Quincer, **Briana A. Betke**, Nicole L. Gottdenker,     Jonathan J. Wilson, Andi L. Shane, Mohnd Elmontser, Andres Camacho-Gonzalez, Tal Senior, Oliver Smith, Evan J. Anderson, Inci Yildirim. Cat-Scratch Disease: 9 Years of Experience at a Pediatric Center. *Submitted for Peer Review.*
-</ul>
-
+<font size="3">
+  <ul>
+    Omayma Amin, Christina A. Rostad, Mark Gonzalez, Bradley S. Rostad, Shelley Caltharp, Elizabeth Quincer, **Briana A. Betke**, Nicole L. Gottdenker,         Jonathan J. Wilson, Andi L. Shane, Mohnd Elmontser, Andres Camacho-Gonzalez, Tal Senior, Oliver Smith, Evan J. Anderson, Inci Yildirim. Cat-Scratch         Disease: 9 Years of Experience at a Pediatric Center. *Submitted for Peer Review.*
+  </ul>
+</font>
+    
 **Reports**
 
 2021	
