@@ -16,9 +16,7 @@ header:
 
 I am a PhD Candidate in the Ecology, Evolution, and Behavior program at the University of Texas at Austin in the [Meyers lab](http://www.bio.utexas.edu/research/meyers/), co-advised by [Nicole Gottdenker](https://www.gottdenkerlab.com/). My research interest is broadly the disease ecology of wildlife and humans. More specifically my interests include the impacts of urbanization on wildlife health, host-parasite interactions, human-wildlife interactions, and the implications this may have for the spread of zoonotic diseases.
 
-<center><img src="/images/cnsandib.png" width="425"/></center>
-<center><img src="/images/EEB-Logo-Circle-Blue.png" width="155"/></center>
-
+<img src="/images/cnsandib.png" alt="" width="425"/> <img src="/images/EEB-Logo-Circle-Blue.png" alt="" width="155"/>
 
 # News
 
