@@ -20,6 +20,8 @@ I am a PhD Candidate in the Ecology, Evolution, and Behavior program at the Univ
 <img src="/images/cnsandib.png" width="425"/>
 </center>
 
+<br>
+
 <center>
 <img src="/images/EEB-Logo-Circle-Blue.png" width="155"/>
 </center>
