@@ -30,7 +30,7 @@ My undergraduate research investigated the correlation between stress levels det
 
 
 <p float="center">
-  <img src="/images/pooplab.jpg" width="250" />
+  <img src="/images/pooplab.jpg" width="252" />
   <img src="/images/heartoftips.jpg" width="550" /> 
 </p>
 
