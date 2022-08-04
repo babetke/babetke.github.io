@@ -28,5 +28,12 @@ Other projects:
 
 My undergraduate research investigated the correlation between stress levels determined by fecal glucocorticoids and forage quality in Sonoran pronghorn with [David Christianson](https://scholar.google.com/citations?user=nehjEWUAAAAJ&hl=en) in the [Wildlife Endocrinology Lab.](https://cals.arizona.edu/research/ecology/webpages/people/people.html)
 
-|:-:|:-:|
-|![heart](/images/heartoftips.jpg)|![lab](pooplab.jpg)|
+<center><img src="/images/pooplab.jpg" alt="" width="155"></center>
+<center><img src="/images/heartoftips.jpg" alt="" width="155"></center>
+
+<p float="center">
+  <img src="/images/pooplab.jpg" width="100" />
+  <img src="/images/heartoftips.jpg" width="100" /> 
+</p>
+
+
