@@ -18,9 +18,9 @@ I am a PhD Candidate in the Ecology, Evolution, and Behavior program at the Univ
 
 My research interest is broadly disease ecology of wildlife and humans. More specifically my interests include impacts of urbanization on:
 
-    - wildlife health
-    - host-pathogen interactions
-    - human-wildlife interactions 
+- wildlife health
+- host-pathogen interactions
+- human-wildlife interactions 
     
 and the implications this may have for the spread of zoonotic diseases.
 
