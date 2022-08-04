@@ -8,7 +8,7 @@ permalink: /research/
 Broadly, I am interested in the ecology of disease in wildlife and humans. More specifically, my interests include understanding the impacts of urbanization on:
 
 * wildlife health
-* host-pathogen interactions,
+* host-pathogen interactions
 * human-wildlife interactions 
 
 **Graduate Research**
@@ -26,7 +26,7 @@ Other projects:
 
 **Undergraduate Research**
 
-My undergraduate research investigated the correlation between stress levels determined by fecal glucocorticoids and forage quality in Sonoran pronghorn with [David Christianson](https://scholar.google.com/citations?user=nehjEWUAAAAJ&hl=en) in the [Wildlife Endocrinology Lab.](https://cals.arizona.edu/research/ecology/webpages/people/people.html)
+My undergraduate research focussed on assessing the relationship between stress levels, determined by fecal glucocorticoids, and forage quality in Sonoran pronghorn with [David Christianson](https://scholar.google.com/citations?user=nehjEWUAAAAJ&hl=en) in the [Wildlife Endocrinology Lab.](https://cals.arizona.edu/research/ecology/webpages/people/people.html)
 
 <center><img src="/images/pooplab.jpg" alt="" width="250"></center>
 <center><img src="/images/heartoftips.jpg" alt="" width="250"></center>
