@@ -4,6 +4,7 @@ permalink: /research/
 ---
 
 **Interests**
+
 Broadly, I am interested in the ecology of disease in wildlife and humans. More specifically, my interests include impacts of urbanization on:
     * wildlife health
     * host-pathogen interactions,
