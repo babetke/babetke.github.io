@@ -5,20 +5,18 @@ permalink: /research/
 
 **Interests**
 
-Broadly, I am interested in the ecology of disease in wildlife and humans. More specifically, my interests include impacts of urbanization on:
+Broadly, I am interested in the ecology of disease in wildlife and humans. More specifically, my interests include understanding the impacts of urbanization on:
 
 * wildlife health
 * host-pathogen interactions,
 * human-wildlife interactions 
-
-and the implications this may have for the spread of zoonotic diseases.
 
 **Graduate Research**
 
 Dissertation Projects:
 
 * Granular spatial analysis of vector-borne pathogen exposure risk in owned companion animals in Georgia, USA with [Nicole Gottdenker DVM, MS, PhD, Dipl. ACVP.](https://www.gottdenkerlab.com/)
-* Sociodemographic and ecological associations with county level human cases of Murine Typhus in Texas, USA.
+* Sociodemographic and ecological associations with county-level human cases of Murine Typhus in Texas, USA.
 * Anthropogenic roosting and Viral diversity in bats using a machine learning approach with [Daniel Becker, PhD](http://beckerlab.weebly.com/) and viral assocition data from [VERENA Consortium.](https://www.viralemergence.org/)
 
 Other projects:
