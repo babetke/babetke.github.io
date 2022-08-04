@@ -21,7 +21,7 @@ Dissertation Projects:
 Other projects:
 
 * Spatial distribution of COVID-19 hospitalization risk in the greater Austin area, USA in collaboration with Emily Javan and the [UT Modeling Consortium](https://covid-19.tacc.utexas.edu/). This work was presented at the 2020 UT COVID Conference and the poster can be found [here.](https://airtable.com/shrGb7V5X5UKbEugG/tbl5TPwuDHlJ5cmL2/viwLXY9IEsuUd6jgp/recNpYF9kxeKqNfF9)
-* Descriptive analysis of Bartonella spp. in companion animals paired with pediatric cases of Cat-Scratch disease in Georgia, USA with [Christina A. Rostad, MD and team](https://www.pedsresearch.org/people/faculty/christina-rostad) and [Nicole Gottdenker DVM, MS, PhD, Dipl. ACVP.](https://www.gottdenkerlab.com/) This work has been submitted for publication. Look out for the paper in my publication section!
+* Descriptive analysis of Bartonella spp. in companion animals paired with pediatric cases of Cat-Scratch disease in Georgia, USA with [Christina A. Rostad, MD and team](https://www.pedsresearch.org/people/faculty/christina-rostad) and Nicole Gottdenker DVM, MS, PhD, Dipl. ACVP. This work has been submitted for publication. Look out for the paper in my publication section!
 
 **Undergraduate Research**
 
