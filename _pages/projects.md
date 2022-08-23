@@ -17,7 +17,7 @@ Dissertation Projects:
 
 * Granular spatial analysis of vector-borne pathogen exposure risk in owned companion animals in Georgia, USA with [Nicole Gottdenker DVM, MS, PhD, Dipl. ACVP.](https://www.gottdenkerlab.com/)
 * Sociodemographic and ecological associations with county-level human cases of Murine Typhus in Texas, USA.
-* Anthropogenic roosting and Viral diversity in bats using a machine learning approach with [Daniel Becker, PhD](http://beckerlab.weebly.com/) and viral association data from [VERENA Consortium.](https://www.viralemergence.org/). Preliminary analysis was presented at the ESA 2022 annual conference and the poster can be downloaded <a href="https://babetke.github.io/images/ESA 2022 Poster.pdf"> here </a>. 
+* Anthropogenic roosting and Viral diversity in bats using a machine learning approach with [Daniel Becker, PhD](http://beckerlab.weebly.com/) and viral association data from [VERENA Consortium.](https://www.viralemergence.org/). Preliminary analysis was presented at ESA 2022 and the poster can be downloaded <a href="https://babetke.github.io/images/ESA 2022 Poster.pdf"> here. </a> 
 
 Other projects:
 
