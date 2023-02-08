@@ -1,12 +1,35 @@
 ---
 title: ""
-permalink: /projects/
+permalink: /research/
 ---
 
-**Social Vulnerability and COVID-19 Related Hospitalizations in Austin, Tx**
+**Interests**
 
-Severe health outcomes such as hospitalization appear to be heterogeneous in the US and in Austin, Tx. It is important to understand what socioeconomic factors are associated with severe outcome to equitably allocate COVID-19 public health responses. Recent work have highlighted comorbities such as old age and heart condition. However, sociodemographic variables and metrics of social vulnerability could have an impact on severe heath outcomes. We use the SVI developed by the CDC and its components, obtained from the 2018 ACS, to identify significant linear predictors of COVID-19 hospitalizations per zip code tabular area (ZCTA).
+Broadly, I am interested in the ecology of disease in wildlife and humans. More specifically, my interests include understanding the impacts of urbanization on:
 
-**Sociodemographic and Ecological Associations with Murine Typhus in Texas, USA** 
+* wildlife health
+* host-pathogen interactions
+* human-wildlife interactions 
 
-Murine typhus is a fleaborne disease endemic to California and Texas, caused by the pathogen *Rickettsia typhi*. In recent years, an increase in cases and geographic area have been observed in Texas. The disease historcally circulated in rodents and their assoicated fleas but has shifted to a more urban cycle of peri-domestic mammals. To understand if human infection (number of cases per 100,000) of Murine typhus in 2014 - 2018 differs between urban and rural dominated counties in Texas, I am conducting a county level regression analysis with county classification (urban and rural)and additional covariates (socioeconomic and enivironmental predictors)
+**Graduate Research**
+
+Dissertation Projects:
+
+* Granular spatial analysis of vector-borne pathogen exposure risk in owned companion animals in Georgia, USA with [Nicole Gottdenker DVM, MS, PhD, Dipl. ACVP.](https://www.gottdenkerlab.com/)
+* Sociodemographic and ecological associations with county-level human cases of Murine Typhus in Texas, USA.
+* Anthropogenic roosting and viral diversity in bats using a machine learning approach with [Daniel Becker, PhD](http://beckerlab.weebly.com/) and viral association data from [Verena Consortium](https://www.viralemergence.org/). Preliminary analysis was presented at ESA 2022 and the poster can be downloaded <a href="https://babetke.github.io/images/ESA 2022 Poster.pdf"> here.</a> 
+
+Other projects:
+
+* Spatial distribution of COVID-19 hospitalization risk in the greater Austin area, USA in collaboration with Emily Javan and the [UT Modeling Consortium](https://covid-19.tacc.utexas.edu/). This work was presented at the 2020 UT COVID Conference and the poster can be found [here.](https://airtable.com/shrGb7V5X5UKbEugG/tbl5TPwuDHlJ5cmL2/viwLXY9IEsuUd6jgp/recNpYF9kxeKqNfF9)
+* Descriptive analysis of Bartonella spp. in companion animals paired with pediatric cases of Cat-Scratch disease in Georgia, USA with [Christina A. Rostad, MD and team](https://www.pedsresearch.org/people/faculty/christina-rostad) and Nicole Gottdenker DVM, MS, PhD, Dipl. ACVP. This work has been accepted for publication at Open Forum Infectious Diseases. Look out for the paper in my publication section!
+
+**Undergraduate Research**
+
+My undergraduate research focussed on assessing the relationship between stress levels, determined by fecal glucocorticoids, and forage quality in Sonoran pronghorn with [David Christianson, PhD](https://scholar.google.com/citations?user=nehjEWUAAAAJ&hl=en) in the [Wildlife Endocrinology Lab.](https://cals.arizona.edu/research/ecology/webpages/people/people.html)
+
+<center><img src="/images/pooplab.jpg" alt="" width="250"></center>
+<center><img src="/images/heartoftips.jpg" alt="" width="250"></center>
+
+
+
