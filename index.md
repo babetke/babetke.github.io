@@ -14,16 +14,9 @@ header:
 
 ------------------------------------------------------------------------
 
-I am a PhD Candidate in the Ecology, Evolution, and Behavior program at the University of Texas at Austin in the [Meyers lab](http://www.bio.utexas.edu/research/meyers/), co-advised by [Nicole Gottdenker](https://www.gottdenkerlab.com/). 
+I am a PhD Candidate in the Ecology, Evolution, and Behavior program at the University of Texas at Austin in the [Meyers lab](http://www.bio.utexas.edu/research/meyers/), co-advised by [Nicole Gottdenker DVM, MS, PhD, Dipl. ACVP.](https://www.gottdenkerlab.com/). 
 
-My research interest is broadly disease ecology of wildlife and humans. More specifically my interests include impacts of urbanization on:
-    * wildlife health
-    * host-pathogen interactions,
-    * human-wildlife interactions, 
-and the implications this may have for the spread of zoonotic diseases.
-
-I use a statistical modeling and machine learning approach to investigate the impacts of anthropogenic environments on exposure to vector-borne pathogens risk in humans and companion animals. In addition, I am studying how the use of anthropogenic structures as roost sites influence viral diversity in bats.
-
+I use a statistical modeling approach to investigate the impacts of anthropogenic environments on vector-borne pathogen exposure risk in humans and companion animals. In addition, I am taking a machine learning approach to understand how the use of anthropogenic structures as roosts influence viral diversity in bats.
 
 
 <center><img src="/images/EEB-Logo-Circle-Blue.png" alt="" width="155"></center>
