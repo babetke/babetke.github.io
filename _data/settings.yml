@@ -1,0 +1,24 @@
+menu:
+- {name: 'research', url: '/projects'}
+- {name: 'publications', url: '/publications'}
+- {name: 'outreach', url: '/outreach'}
+- {name: 'about', url: '/about'}
+
+people:
+- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+
+courses:
+- {name: 'Vector Calculus', url: 'vector-calculus'}
+- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+- {name: 'Stellar Structures', url: 'stellar-structures'}
+
+social:
+- {icon: 'github', link: 'https://github.com/babetke'}
+- {icon: 'twitter', link: 'https://twitter.com/brianaabook'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/briana-betke-02135b151/'}
+- {icon: 'google scholar', link: 'https://scholar.google.com/citations?user=Aw-DXJAAAAAJ&hl=en'}
+
+contacts:
+- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
