@@ -7,9 +7,9 @@ title: "Research"
 <center><img src="/different-method/assets/img/mcneil_cropped.jpeg" alt="" width="100%"></center>
 <br>
 
-**Postdoctoral research: Identifying and Validating Missing Links in the Global Bat-Virus Network**
+**Postdoctoral research: Identifying and Validating Missing Links in the Global Bat–Virus Network**
 
-A major challenge to the field of disease ecology is fully characterizing hostpathogen
+A major challenge to the field of disease ecology is fully characterizing host–pathogen
 networks because species interaction data is often incomplete and biased, owing to
 the high logistical costs (e.g., time and funding) and thus infeasibility of exhaustive sampling of
 these associations. This has consequences for the prevention and control of diseases of
