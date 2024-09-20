@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Mentoring and Outreach
+#Mentoring and Outreach
 
 **Minorities in Biological Research (MBR)**
 
@@ -16,7 +16,7 @@ Through the ESA SEEDs program, I mentored 10 students during the 2019 ESA annual
 
 Through the Alumni Leadership Cohort, I mentored a current undergraduate student in the DDCSP Collaborative.
 
-**Public engagement**
+##Public engagement
 
 #### 2024
 Speaker • Anthropogenic Roosting Ability and Viral Associations in Bats • Verena Lighthouse Lightning Talks • https://www.viralemergence.org/outreach
