@@ -7,6 +7,7 @@ title: "Publications"
 <center><img src="/different-method/assets/img/IMG_1755.jpeg" alt="" width="100%"></center>
 <br>
 
+### Peer Reviewed
 #### 2024
 **Briana Betke**, Nicole Gottdenker, Lauren Ancel Meyers LA, Daniel J. Becker. Ecological and evolutionary characteristics of synanthropic roosting ability in bats of the world. (2024) *iScience*. [Article](https://doi.org/10.1016/j.isci.2024.110369)
 
@@ -19,14 +20,13 @@ Omayma Amin, Christina A. Rostad, Mark Gonzalez, Bradley S. Rostad, Shelley Calt
 
 ### In Review
 **Betke BA**, Juman MM, O’Shea M, Fagre A, Frank H, Becker DJ, Poisot T. Why don’t
-bats get sick from viruses? In revision at Frontiers in Young Minds
+bats get sick from viruses? In revision at *Frontiers in Young Minds*
 
 ### Advanced Preparation
 **Briana Betke**, Nicole Gottdenker, Lauren Ancel Meyers LA, Daniel J. Becker. The Role of Anthropogenic Roosting Ecology in Shaping Viral Outcomes in Bats. [Preprint](https://www.biorxiv.org/content/10.1101/2023.12.12.571362v1)
 
 **Betke BA**, Gottdenker NL. Ecological associations of vector-borne pathogen expo-
-sure in companion animals in Georgia, 2017-2021. In preparation for Vector-Borne
-and Zoonotic Diseases
+sure in companion animals in Georgia, 2017-2021. In preparation for *Vector-Borne and Zoonotic Diseases* 
 
 Becker DJ, Olbrys BL, Vicente-Santos A, Simonis MC, Ciarrachi S, Ledezma-Campos
 P, Dyer KE, Rodr´ ıguez-Pastor R, Santibáñez P, Roistacher A, DeAnglis IK, **Betke BA**,
