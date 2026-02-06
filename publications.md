@@ -24,7 +24,7 @@ bats get sick from viruses? In revision at Frontiers in Young Minds
 ### Advanced Preparation
 **Briana Betke**, Nicole Gottdenker, Lauren Ancel Meyers LA, Daniel J. Becker. The Role of Anthropogenic Roosting Ecology in Shaping Viral Outcomes in Bats. [Preprint](https://www.biorxiv.org/content/10.1101/2023.12.12.571362v1)
 
-Betke BA, Gottdenker NL. Ecological associations of vector-borne pathogen expo-
+**Betke BA**, Gottdenker NL. Ecological associations of vector-borne pathogen expo-
 sure in companion animals in Georgia, 2017-2021. In preparation for Vector-Borne
 and Zoonotic Diseases
 
@@ -33,7 +33,6 @@ P, Dyer KE, Rodr´ ıguez-Pastor R, Santibáñez P, Roistacher A, DeAnglis IK, *
 Jackson RT, Lunn TJ, Webala PW, Forbes KM, Corrales-Aguilar E, Gillespie TR, Simon R, Wiantoro S, Tsang SM, Sears KE, Page RA, Simmons NB, Foster JT, Mill´ an J,
 Volokhov DV, Herrera C. Model-guided characterization of bat hosts of hemoplasmas
 with zoonotic potential.
-
 <br>
 
 ### Reports  
