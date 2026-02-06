@@ -15,8 +15,7 @@ I completed my PhD in the Ecology, Evolution, and Behavior program at the Univer
 <br>
 <p style="text-align:center;font-size:110%">
 <a href="mailto:briana.a.bekte-1@ou.edu"> <img src="/different-method/assets/img/email.png" width="40" height="40"></a>
-<a href="https://twitter.com/brianaabook"> <img src="/different-method/assets/img/twitter.png" width="40" height="40"></a>
 <a href="https://scholar.google.com/citations?user=Aw-DXJAAAAAJ&hl=en"> <img src="/different-method/assets/img/google.png" width="40" height="40"></a>
 <a href="https://github.com/babetke"> <img src="/different-method/assets/img/github.png" width="40" height="40"></a>
 <a href="https://www.linkedin.com/in/briana-betke-02135b151/"> <img src="/different-method/assets/img/linkedin.png" width="40" height="40"></a>
-<a href="https://babetke.github.io/images/Betke_CV_2022.pdf"> <img src="/different-method/assets/img/resume icon.png" width="40" height="40"></a>
+<a href="https://babetke.github.io/assets/img/Betke_Academic_CV.pdf"> <img src="/different-method/assets/img/resume icon.png" width="40" height="40"></a>

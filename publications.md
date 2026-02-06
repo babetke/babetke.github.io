@@ -17,8 +17,23 @@ Spencer J. Fox, Emily Javan, Remy Pasco, Graham C. Gibson, **Briana Betke**, Jos
 Omayma Amin, Christina A. Rostad, Mark Gonzalez, Bradley S. Rostad, Shelley Caltharp, Elizabeth Quincer, **Briana A. Betke**, Nicole L. Gottdenker, Jonathan J. Wilson, Andi L. Shane, Mohnd Elmontser, Andres Camacho-Gonzalez, Tal Senior, Oliver Smith, Evan J. Anderson, Inci Yildirim.(In Press). Cat-Scratch Disease: 9 Years of Experience at a Pediatric Center. *Open Forum Infectious Diseases.* [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9439574/)
 <br>
 
+### In Review
+**Betke BA**, Juman MM, O’Shea M, Fagre A, Frank H, Becker DJ, Poisot T. Why don’t
+bats get sick from viruses? In revision at Frontiers in Young Minds
+
 ### Advanced Preparation
 **Briana Betke**, Nicole Gottdenker, Lauren Ancel Meyers LA, Daniel J. Becker. The Role of Anthropogenic Roosting Ecology in Shaping Viral Outcomes in Bats. [Preprint](https://www.biorxiv.org/content/10.1101/2023.12.12.571362v1)
+
+Betke BA, Gottdenker NL. Ecological associations of vector-borne pathogen expo-
+sure in companion animals in Georgia, 2017-2021. In preparation for Vector-Borne
+and Zoonotic Diseases
+
+Becker DJ, Olbrys BL, Vicente-Santos A, Simonis MC, Ciarrachi S, Ledezma-Campos
+P, Dyer KE, Rodr´ ıguez-Pastor R, Santibáñez P, Roistacher A, DeAnglis IK, **Betke BA**,
+Jackson RT, Lunn TJ, Webala PW, Forbes KM, Corrales-Aguilar E, Gillespie TR, Simon R, Wiantoro S, Tsang SM, Sears KE, Page RA, Simmons NB, Foster JT, Mill´ an J,
+Volokhov DV, Herrera C. Model-guided characterization of bat hosts of hemoplasmas
+with zoonotic potential.
+
 <br>
 
 ### Reports  
