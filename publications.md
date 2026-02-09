@@ -9,13 +9,13 @@ title: "Publications"
 
 ### Peer Reviewed
 #### 2024
-**Briana Betke**, Nicole Gottdenker, Lauren Ancel Meyers LA, Daniel J. Becker. Ecological and evolutionary characteristics of synanthropic roosting ability in bats of the world. (2024) *iScience*. [Article](https://doi.org/10.1016/j.isci.2024.110369)
+**Briana Betke**, Nicole Gottdenker, Lauren Ancel Meyers LA, Daniel J. Becker. (2024) Ecological and evolutionary characteristics of synanthropic roosting ability in bats of the world. *iScience*. [Article](https://doi.org/10.1016/j.isci.2024.110369)
 
 #### 2023
 Spencer J. Fox, Emily Javan, Remy Pasco, Graham C. Gibson, **Briana Betke**, José-Luis Herrera Diestra, Spencer Woody, Kelly Pierce, Kaitlyn E. Johnson, Maureen Johnson-León, Michael Lachmann Lauren Ancel Meyers. (2023) Disproportionate Impacts of COVID-19 in a large US City. *PLOS Computational Biology*. [Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011149)
 
 #### 2022   
-Omayma Amin, Christina A. Rostad, Mark Gonzalez, Bradley S. Rostad, Shelley Caltharp, Elizabeth Quincer, **Briana A. Betke**, Nicole L. Gottdenker, Jonathan J. Wilson, Andi L. Shane, Mohnd Elmontser, Andres Camacho-Gonzalez, Tal Senior, Oliver Smith, Evan J. Anderson, Inci Yildirim.(In Press). Cat-Scratch Disease: 9 Years of Experience at a Pediatric Center. *Open Forum Infectious Diseases.* [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9439574/)
+Omayma Amin, Christina A. Rostad, Mark Gonzalez, Bradley S. Rostad, Shelley Caltharp, Elizabeth Quincer, **Briana A. Betke**, Nicole L. Gottdenker, Jonathan J. Wilson, Andi L. Shane, Mohnd Elmontser, Andres Camacho-Gonzalez, Tal Senior, Oliver Smith, Evan J. Anderson, Inci Yildirim.(2022). Cat-Scratch Disease: 9 Years of Experience at a Pediatric Center. *Open Forum Infectious Diseases.* [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9439574/)
 <br>
 
 ### In Review
