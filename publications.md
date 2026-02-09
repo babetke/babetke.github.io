@@ -33,6 +33,10 @@ P, Dyer KE, Rodr´ ıguez-Pastor R, Santibáñez P, Roistacher A, DeAnglis IK, *
 Jackson RT, Lunn TJ, Webala PW, Forbes KM, Corrales-Aguilar E, Gillespie TR, Simon R, Wiantoro S, Tsang SM, Sears KE, Page RA, Simmons NB, Foster JT, Mill´ an J,
 Volokhov DV, Herrera C. Model-guided characterization of bat hosts of hemoplasmas
 with zoonotic potential.
+
+Cummings C, **Betke BA**, Becker DJ, Integrating immune variables into trait-based
+machine learning models to compare model performance and predictive capacity of
+mammalian virus hosts.
 <br>
 
 ### Reports  
